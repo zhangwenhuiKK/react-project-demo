@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{a7IW:function(t,e,n){"use strict";n.r(e);n("/UTi");var a=n("MoRW"),i=n("q1tI"),s=n.n(i);e.default=function(){return s.a.createElement(a.a,{status:"404",title:"404",subTitle:"抱歉，你无权访问该页面！"})}}}]);
